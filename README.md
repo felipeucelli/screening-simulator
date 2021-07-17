@@ -1,7 +1,7 @@
 # Atividade avaliativa 1 do módulo 52 do curso de engenharia de software
 
 ## Objetivo
-Criar um programa que faça uma triagem inicial através de totens eletrônicos que serão disponibilizados no pronto atendimento, agilizando assim o atendimento e fazendo a separação dos suspeitos de COVID-19 dos não suspeitos, garantindo um distanciamento e redução da infecção gerado pelas filas.
+Criar um programa em C que faça uma triagem inicial através de totens eletrônicos que serão disponibilizados no pronto atendimento, agilizando assim o atendimento e fazendo a separação dos suspeitos de COVID-19 dos não suspeitos, garantindo um distanciamento e redução da infecção gerado pelas filas.
 
 ## Instruções
 Neste programa o paciente chegará ao totem e fará um cadastro prévio indicando os seguintes dados:
